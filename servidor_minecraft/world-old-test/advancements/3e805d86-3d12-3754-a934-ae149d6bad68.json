@@ -1,0 +1,2793 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2024-12-30 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-30 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-12-30 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-12-30 02:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-12-30 02:10:53 +0000",
+      "minecraft:beach": "2024-12-30 02:10:33 +0000",
+      "minecraft:ocean": "2024-12-30 02:10:44 +0000",
+      "minecraft:sunflower_plains": "2024-12-30 03:54:37 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-30 03:16:55 +0000",
+      "minecraft:river": "2024-12-30 03:19:30 +0000",
+      "minecraft:bamboo_jungle": "2024-12-30 03:17:07 +0000",
+      "minecraft:plains": "2024-12-30 02:10:11 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-30 03:16:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/transportation/northland_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/transportation/torreya_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/transportation/lunar_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/transportation/scarlet_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/transportation/starlight_mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-30 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-30 02:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-30 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-30 02:15:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_wover_water_bottles": "2024-12-30 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/brewing/cauldron_from_swamp_silver_ingot": {
+    "criteria": {
+      "has_water_bucket": "2024-12-30 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2024-12-30 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_wover_water_bottles": "2024-12-30 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_wover_water_bottles": "2024-12-30 02:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-30 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-30 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-30 02:31:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:upside_down_forest_cleared": "2024-12-30 02:46:15 +0000",
+      "betternether:magma_land": "2024-12-30 02:47:26 +0000",
+      "betternether:upside_down_forest": "2024-12-30 02:31:46 +0000",
+      "betternether:old_warped_woods": "2024-12-30 02:49:47 +0000",
+      "betternether:soul_plain": "2024-12-30 02:48:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-30 02:48:47 +0000",
+      "minecraft:warped_forest": "2024-12-30 02:49:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-30 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-30 02:56:16 +0000",
+      "minecraft:piglin": "2024-12-30 03:02:47 +0000",
+      "minecraft:zombified_piglin": "2024-12-30 02:59:01 +0000",
+      "minecraft:magma_cube": "2024-12-30 02:58:06 +0000",
+      "minecraft:slime": "2024-12-30 04:13:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-30 02:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-30 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-30 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-30 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-30 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:arrow": {
+    "criteria": {
+      "requirement": "2024-12-30 02:56:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 02:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 02:59:02 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_diamond": {
+    "criteria": {
+      "recipe_condition": "2024-12-30 03:01:08 +0000"
+    },
+    "done": true
+  },
+  "packedup:diamond_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-30 03:01:08 +0000"
+    },
+    "done": true
+  },
+  "packedup:silver_or_gold_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-30 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_gold": {
+    "criteria": {
+      "recipe_condition": "2024-12-30 03:01:58 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_diamond_tools": {
+    "criteria": {
+      "cincinnasite_axe": "2024-12-30 03:02:27 +0000"
+    },
+    "done": false
+  },
+  "betternether:cincinnasite_tools": {
+    "criteria": {
+      "cincinnasite_pickaxe": "2024-12-30 03:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-30 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-30 03:09:13 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/reinforced_hang_glider": {
+    "criteria": {
+      "has_hang_glider": "2024-12-30 03:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-30 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_turtle_scute": "2024-12-30 04:01:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2024-12-30 04:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-30 04:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 04:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 04:14:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
+    "criteria": {
+      "has_minecraft:slime_ball": "2024-12-30 04:15:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_anchor_tree": "2024-12-30 04:21:57 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bark": {
+    "criteria": {
+      "has_anchor_tree_log": "2024-12-30 04:21:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/anchor_tree_trapdoor": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/piston": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/anchor_tree_door": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_chest": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_sign": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_boat": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/anchor_tree_wall": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/anchor_tree_gate": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/post_box": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_piston": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_crafting_table": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/anchor_tree_button": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_barrel": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_smith_table": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_slab": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/anchor_tree_plate": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/workbench": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/combat/tag_shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_fence": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_stairs": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_ladder": {
+    "criteria": {
+      "has_anchor_tree_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:22:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-30 04:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/birch_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/rubeus_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/chair_cincinnasite": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/jungle_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bamboo_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/oak_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cherry_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bamboo_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/umbrella_tree_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rail": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/mushroom_fir_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/oak_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/tenanea_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/birch_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/pythadendron_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_tool_assembly": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/acacia_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/golden_hammer": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bamboo_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/dark_oak_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_sakura_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/torreya_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cherry_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/mossy_glowshroom_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/dark_oak_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_wrapped_stick": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_terminite_upgrade": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_mushroom_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/helix_tree_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/spruce_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/transportation/tag_rail": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bar_stool_cincinnasite": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_handle_attachment": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_hammer": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/end_lotus_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/lacugrove_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mangrove_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/acacia_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_thallasium_upgrade": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/jellyshroom_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/jungle_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/lucernia_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diamond_hammer": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/dragon_tree_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mangrove_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cherry_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_gate": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_taburet": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_fence": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_sign": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/spruce_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/taburet_cincinnasite": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_bar_stool": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_ladder": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_chair": {
+    "criteria": {
+      "has_stick": "2024-12-30 04:22:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_red_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_red": "2024-12-30 04:25:16 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2024-12-30 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tiles_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_bricks_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_wall_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/starlit_painting": {
+    "criteria": {
+      "has_item": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:aeternium_armor": {
+    "criteria": {
+      "got_aeternium_chestplate": "2024-12-30 04:28:56 +0000",
+      "got_aeternium_helmet": "2024-12-30 04:28:55 +0000"
+    },
+    "done": false
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-30 04:33:35 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_aetherstrike_rocket": {
+    "criteria": {
+      "has_item": "2024-12-30 04:33:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_smoker": {
+    "criteria": {
+      "has_end_fish_raw": "2024-12-30 04:34:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_wall_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/chiseled_grimstone_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_minecraft:leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/white_yeti_fur_carpet": {
+    "criteria": {
+      "has_white_yeti_fur": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_slab_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/shapeless/soulit_spectator": {
+    "criteria": {
+      "has_item": "2024-12-30 04:51:27 +0000"
+    },
+    "done": true
+  },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2024-12-30 04:33:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_fish_campfire": {
+    "criteria": {
+      "has_end_fish_raw": "2024-12-30 04:34:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone": {
+    "criteria": {
+      "has_item": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_tools": {
+    "criteria": {
+      "flaming_ruby_sword": "2024-12-30 04:29:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-30 04:33:35 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_stairs_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_pickaxe": "2024-12-30 04:30:02 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/cooked_ratlin_meat_smelting_from_ratlin_meat": {
+    "criteria": {
+      "has_item": "2024-12-30 04:35:59 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_aurora_deer_steak_from_smoking": {
+    "criteria": {
+      "has_aurora_deer_steak": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "spellbound_weapons:recipe/windsweeper": {
+    "criteria": {
+      "3": "2024-12-30 04:33:35 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_stairs_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_yeti_fur": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_slab_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_aurora_deer_steak_from_campfire_cooking": {
+    "criteria": {
+      "has_aurora_deer_steak": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/misc/cooked_aurora_deer_steak_smelting_from_aurora_deer_steak": {
+    "criteria": {
+      "has_item": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_brick_slab_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2024-12-30 04:35:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_ratlin_meat_from_campfire_cooking": {
+    "criteria": {
+      "has_ratlin_meat": "2024-12-30 04:35:59 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/food/cooked_ratlin_meat_from_smoking": {
+    "criteria": {
+      "has_ratlin_meat": "2024-12-30 04:35:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-30 04:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_seeking_eye": {
+    "criteria": {
+      "has_item": "2024-12-30 04:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/grimstone_tile_wall_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-30 04:36:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_leather": "2024-12-30 04:36:00 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_stairs_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "eternal_starlight:recipes/building_blocks/polished_grimstone_from_grimstone_stonecutting": {
+    "criteria": {
+      "has_grimstone": "2024-12-30 04:39:36 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

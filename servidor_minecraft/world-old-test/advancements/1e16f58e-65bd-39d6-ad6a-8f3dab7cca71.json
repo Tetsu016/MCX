@@ -1,0 +1,72 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2024-12-30 16:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-30 16:59:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-12-30 16:59:24 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-12-30 16:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-30 16:59:51 +0000",
+      "minecraft:plains": "2024-12-30 16:59:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-30 17:01:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-30 17:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-30 17:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-30 17:01:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:magma_land": "2024-12-30 17:03:25 +0000",
+      "betternether:upside_down_forest": "2024-12-30 17:01:57 +0000",
+      "betternether:soul_plain": "2024-12-30 17:07:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-30 17:16:29 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}
